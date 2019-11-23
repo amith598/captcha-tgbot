@@ -4,7 +4,7 @@ import random
 from datetime import datetime as dt, timedelta
 
 # bot information
-bot = botogram.create("542350726:AAHtyLqFRz2rnkjLofdtOEweLTpjC2kgdGI")
+bot = botogram.create("BOT_TOKEN")
 bot.about = "This bot is used to block a flooder with a captcha"
 bot.owner = "@sonomichelequellostrano"
 
