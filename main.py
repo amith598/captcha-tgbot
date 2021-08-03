@@ -6,7 +6,7 @@ from datetime import datetime as dt, timedelta
 # bot information
 bot = botogram.create("BOT_TOKEN")
 bot.about = "This bot is used to block a flooder with a captcha"
-bot.owner = "@sonomichelequellostrano"
+bot.owner = "@NOOBX7"
 
 
 # redis
